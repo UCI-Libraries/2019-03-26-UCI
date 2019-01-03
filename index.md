@@ -275,9 +275,7 @@ The course is aimed at graduate students and other researchers, including underg
   'tools/check' as well.
 {% endcomment %}
 
-<br>
-<br>
-<br>
+<div id="setup"> {% comment %} Start of 'setup' section. {% endcomment %}
 <h2 id="setup">Setup</h2>
 
 <p>
