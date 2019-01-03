@@ -243,7 +243,7 @@ The course is aimed at graduate students and other researchers, including underg
   2. Some workshops will delete SQL.
   3. Please make sure the list of topics is synchronized with what you
      intend to teach.
-  4. You may need to move the div's with class="col-md-6" around inside
+  4. You may need to move the div's with ="col-md-6" around inside
      the div's with class="row" to balance the multi-column layout.
 
   This is one of the places where people frequently make mistakes, so
@@ -263,6 +263,7 @@ The course is aimed at graduate students and other researchers, including underg
 <hr/>
 
 {% comment %}
+  <div class="row">
   SETUP
 
   Delete irrelevant sections from the setup instructions.  Each
