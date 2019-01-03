@@ -274,6 +274,8 @@ The course is aimed at graduate students and other researchers, including underg
   please preview your site before committing, and make sure to run
   'tools/check' as well.
 {% endcomment %}
+
+
 <br>
 <h2 id="setup">Setup</h2>
 
