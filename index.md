@@ -264,6 +264,7 @@ The course is aimed at graduate students and other researchers, including underg
 
 {% comment %}
   <div class="row">
+  <div class="col-md-4">
   SETUP
 
   Delete irrelevant sections from the setup instructions.  Each
