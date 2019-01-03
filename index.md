@@ -263,8 +263,7 @@ The course is aimed at graduate students and other researchers, including underg
 <hr/>
 
 {% comment %}
-  <div class="row">
-  <div class="col-md-4">
+ 
   SETUP
 
   Delete irrelevant sections from the setup instructions.  Each
@@ -275,7 +274,7 @@ The course is aimed at graduate students and other researchers, including underg
   please preview your site before committing, and make sure to run
   'tools/check' as well.
 {% endcomment %}
-
+<br>
 <h2 id="setup">Setup</h2>
 
 <p>
